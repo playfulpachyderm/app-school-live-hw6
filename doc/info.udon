@@ -1,0 +1,10 @@
+;>
+# Delta
+
+Delta is an app that lets you push stuff onto a list and pop it out again.  This is very useful if you need to do that sort of thing.
+
+There is also something called `delta-follower`, which lets you subscribe to changes in the `delta` agent.  Any time something happens to Delta, it will be printed by delta-follower.
+
+## Notes
+
+The code is sort of copy-pasted from the App School lessons.  It is available [here](https://github.com/sigilante/curriculum/blob/master/asl-2023.1/asl2.md).  Just look for the code blocks titled with `delta` in them.
